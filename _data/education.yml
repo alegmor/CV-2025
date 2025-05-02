@@ -1,13 +1,37 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- uni: "University of British Columbia Okanagan (UBCO)"
+  degree: "PhD in Mechanical Engineering"
+  year: "2023–Present"
+  award: "Supervisor: Dr. Joshua Brinkerhoff"
+  summary: >
+    <strong>Research project:</strong> Modelling Heterogeneous Phase Change in Cryogenic Fluids.
+    <ul>
+      <li>Developed 1D and 2D solvers to study the Semi-Lagrangian Lattice Boltzmann Method with Particles on Demand (SLLBM-PonD).</li>
+      <li>Running simulations using a C++ code developed by Dr. Kasper Petersen to model the spinodal decomposition of a van der Waals fluid.</li>
+    </ul>
+    <br><strong>Relevant coursework:</strong> Multiphase Flows, Technical Communication for Engineering.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- uni: "Instituto de Energías Renovables, UNAM (Mexico)"
+  degree: "Master’s in Energy Engineering"
+  year: "2019–2022"
+  award: "Supervisor: Dr. Raúl Rechtman"
+  summary: >
+    <strong>Research project:</strong> Study of the Rayleigh–Bénard–Poiseuille flow with the LBM. <a href="https://hdl.handle.net/20.500.14330/TES01000823951" target="_blank">View Thesis</a>
+    <ul>
+      <li>Utilized and extended a C-based LBM solver developed by Dr. Raúl Rechtman to simulate Poiseuille flow, Rayleigh–Bénard convection, and conjugate heat transfer.</li>
+      <li>Processed and visualized results using Gnuplot and Python (NumPy,Pandas and Matplotlib).</li>
+      <li>Validated thermal and flow behavior against analytical benchmarks.</li>
+    </ul>
+    <strong>Relevant coursework:</strong> Python, Data Acquisition and Analysis, Heat Transfer, Fluid Mechanics, Turbulence.
+
+
+- uni: "Instituto Tecnológico de México"
+  degree: "Bachelor’s Degree in Renewable Energy Engineering"
+  year: "2013–2018"
+  award: "Supervisor: Dr. Raúl Rechtman"
+  summary: >
+    <strong>Research project:</strong> Modelling heat transfer and fluid dynamics using the LBM.
+    <ul>
+      <li>Studied the cellular gas automaton framework and its connection to mesoscopic fluid models.</li>
+      <li>Studied the Chapman–Enskog expansion to derive macroscopic Navier–Stokes equations from LBM dynamics.</li>
+      <li>Understood the Maxwell–Boltzmann equilibrium distribution function as the basis of the LBM collision model.</li>
+    </ul>

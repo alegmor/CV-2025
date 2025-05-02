@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Alejandra Garcia CV"
+description: "CV"
 
 # Build settings
 markdown: kramdown
@@ -9,21 +9,23 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name: J. Alejandra García M.
+resume_title: PhD Student in Mechanical Engineering
+resume_contact_email: janette.morales@ubc.ca
+resume_contact_telephone: 236-970-9007
+resume_contact_address: UBCO | School of Engineering | Kelowna, BC
+resume_looking_for_work: yes
+resume_avatar: false
+resume_header_intro: >
+resume_header_intro: >
+  I am an enthusiastic user and supporter of open-source software with a strong foundation in numerical methods,
+   particularly the lattice Boltzmann method (LBM) and computational fluid dynamics (CFD). I am passionate about applying 
+   computational modelling to projects that support the integration of renewable energy sources and the decarbonization
+    of industrial sectors. I am driven by a desire to push the boundaries of science while actively seeking opportunities 
+    to broaden the breadth of my expertise through applied, interdisciplinary research. I am highly motivated to learn, collaborate, 
+    and contribute to innovative solutions that foster a more sustainable future.
+display_header_contact_info: true
 
-# used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
-
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
-
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,19 +42,18 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
+resume_section_teaching:        true
+resume_section_conferences:     true
+
+
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/alegmor/"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/alegmor"
 resume_print_social_links:      true
 
 # Design settings
