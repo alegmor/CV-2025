@@ -122,21 +122,6 @@
       {% endif %}
 
       {% if site.resume_section_conferences %}
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Conference Presentations</h2>
-        </header>
-        {% for talk in site.data.conferences %}
-        <div class="resume-item">
-          <h3 class="resume-item-title">{{ talk.title }}</h3>
-          <h4 class="resume-item-details">{{ talk.event }} &bull; {{ talk.year }}</h4>
-          <p class="resume-item-copy">{{ talk.description }}</p>
-        </div>
-        {% endfor %}
-      </section>
-      {% endif %}
-
-      {% if site.resume_section_conferences %}
 <section class="content-section">
   <header class="section-header">
     <h2>Conference Presentations</h2>

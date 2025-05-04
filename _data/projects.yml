@@ -1,5 +1,5 @@
 - project: Journal Publication – European Journal of Mechanics B/Fluids
   role: Co-author
   duration: 2024
-  # url: https://doi.org/your-doi-here  # uncomment and insert the DOI if available
+  url: https://doi.org/10.1016/j.euromechflu.2024.01.012  # uncomment and insert the DOI if available
   description: Published a study on Rayleigh–Bénard–Poiseuille flow transitions using the lattice Boltzmann method.
