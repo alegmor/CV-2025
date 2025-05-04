@@ -19,7 +19,7 @@ resume_avatar: false
 resume_header_intro: >
 resume_header_intro: >
   I am an enthusiastic user and supporter of open-source software with a solid foundation in numerical methods, particularly the lattice Boltzmann method (LBM) 
-  and computational fluid dynamics (CFD). At the UBC-Okanagan CFD Laboratory, I develop and refine numerical modeling techniques to better capture the physical phenomena behind real-world industrial challenges.
+  and computational fluid dynamics (CFD). At the <a href="https://cfdlab.ok.ubc.ca/">UBC-Okanagan CFD Laboratory</a>, I develop and refine numerical modeling techniques to better capture the physical phenomena behind real-world industrial challenges.
    I apply computational tools to projects that drive the transition to low-carbon energy systems. I’m motivated to push the boundaries of science and constantly seek opportunities to broaden
     my expertise through applied, interdisciplinary research.
 display_header_contact_info: true
